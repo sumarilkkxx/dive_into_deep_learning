@@ -3,6 +3,7 @@
         "arange",
         "augs",
         "LSTM",
+        "multibox",
         "softmax"
     ]
 }
